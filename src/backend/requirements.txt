@@ -120,7 +120,7 @@ marshmallow==4.0.0
     # via environs
 mcp==1.11.0
     # via openai-agents
-msal==1.32.3
+msal==1.33.0
     # via
     #   azure-identity
     #   msal-extensions
